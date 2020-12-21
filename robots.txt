@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://l1905kw.github.io/sitemap.xml
